@@ -1,4 +1,5 @@
-# megastructure
+Megastructure
+=============
 
 This repository demonstrates the use of an L-system to create fictional megastructures. 
 
@@ -18,3 +19,15 @@ The third GhPython component translates the node types into parameters necessary
   <img src="/images/perspectives4.png" alt="perspectives4" width="300" />
   <img src="/images/perspectives5.png" alt="perspectives5" width="300" /> 
 </p>
+
+[![Demonstration video](https://img.youtube.com/vi/y2fePnh9iXs/0.jpg)](http://www.youtube.com/watch?v=y2fePnh9iXs)
+
+## Code
+
+To run the code in Grasshopper, copy each Python file into its own GhPython Grasshopper component.
+
+<img src="/images/substitution block.png" alt="perspectives" width="600" />
+<img src="/images/mechanism block.png" alt="perspectives" width="300" />
+<img src="/images/build block.png" alt="perspectives" width="600" />
+
+
